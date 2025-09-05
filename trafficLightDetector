@@ -109,5 +109,5 @@ elif mode == "3":
         cv.destroyAllWindows()
 
 else:
-
     print("Invalid mode!")
+
